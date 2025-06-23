@@ -1,0 +1,123 @@
+2025-06-23 17:18:40.106 | INFO     | config_manager  | ✅ Configuration saved
+2025-06-23 17:18:40.107 | INFO     | config_manager  | ✅ Default configuration created
+2025-06-23 17:18:40.107 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:18:40.109 | INFO     | language_manager | ✅ Translations loaded successfully
+2025-06-23 17:18:40.109 | INFO     | language_manager | 🌐 Language Manager initialized
+2025-06-23 17:18:40.111 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:18:40.111 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:18:40.112 | INFO     | language_manager | ✅ Translations loaded successfully
+2025-06-23 17:18:40.113 | INFO     | language_manager | 🌐 Language Manager initialized
+2025-06-23 17:18:40.116 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:18:40.116 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:18:40.250 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:18:40.250 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:18:40.250 | INFO     | language_manager | ✅ Translations loaded successfully
+2025-06-23 17:18:40.251 | INFO     | language_manager | 🌐 Language Manager initialized
+2025-06-23 17:18:40.253 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:18:40.253 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:18:40.254 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:18:40.255 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:18:40.256 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:18:40.257 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:18:40.258 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:18:40.259 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:18:40.259 | INFO     | JARVIS          | 🤖 Advanced JARVIS AI System Initialized
+2025-06-23 17:18:40.259 | INFO     | JARVIS          | 🚀 Initializing JARVIS Advanced Systems...
+2025-06-23 17:18:43.268 | INFO     | security_manager | System integrity verification passed
+2025-06-23 17:18:43.269 | INFO     | jarvis_brain    | 🧠 Initializing JARVIS AI Brain...
+2025-06-23 17:18:46.153 | INFO     | jarvis_brain    | ✅ JARVIS AI Brain initialized successfully
+2025-06-23 17:18:46.154 | INFO     | system_controller | ⚙️ Initializing System Controller...
+2025-06-23 17:18:46.156 | WARNING  | system_controller | ⚠️ Limited system permissions detected
+2025-06-23 17:18:46.164 | INFO     | system_controller | ✅ System monitoring initialized
+2025-06-23 17:18:46.164 | INFO     | system_controller | ✅ System Controller initialized successfully
+2025-06-23 17:18:46.165 | WARNING  | hardware_controller | ⚠️ Hardware monitoring libraries not available
+2025-06-23 17:18:46.165 | WARNING  | JARVIS          | ⚠️ Hardware Controller initialization failed
+2025-06-23 17:18:46.165 | INFO     | network_manager | 🌐 Initializing Network Manager...
+2025-06-23 17:18:47.068 | INFO     | network_manager | ✅ Network Manager initialized successfully
+2025-06-23 17:18:47.068 | WARNING  | voice_engine    | ⚠️ Voice libraries not available
+2025-06-23 17:18:47.068 | WARNING  | JARVIS          | ⚠️ Voice Engine initialization failed - continuing without voice
+2025-06-23 17:18:47.069 | INFO     | learning_engine | 🧠 Initializing Learning Engine...
+2025-06-23 17:18:47.069 | INFO     | learning_engine | Learning configuration loaded
+2025-06-23 17:18:47.069 | INFO     | learning_engine | Loaded 0 interactions and 0 preferences
+2025-06-23 17:18:47.070 | INFO     | learning_engine | Learning models initialized
+2025-06-23 17:18:47.070 | INFO     | learning_engine | Learning process started
+2025-06-23 17:18:47.070 | INFO     | learning_engine | ✅ Learning Engine initialized successfully
+2025-06-23 17:18:47.072 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:18:47.072 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:18:47.110 | INFO     | language_manager | ✅ Translations loaded successfully
+2025-06-23 17:18:47.110 | INFO     | language_manager | 🌐 Language Manager initialized
+2025-06-23 17:18:47.111 | INFO     | gui_interface   | 🖥️ GUI Interface initialized
+2025-06-23 17:18:47.111 | INFO     | JARVIS          | ✅ All JARVIS systems initialized successfully
+2025-06-23 17:18:47.112 | INFO     | JARVIS          | ✅ System Monitor started
+2025-06-23 17:18:47.112 | INFO     | JARVIS          | ✅ Hardware Monitor started
+2025-06-23 17:18:47.112 | INFO     | JARVIS          | ✅ Network Monitor started
+2025-06-23 17:18:47.126 | INFO     | network_manager | Network monitoring started
+2025-06-23 17:18:47.134 | INFO     | JARVIS          | ✅ Learning Engine started
+2025-06-23 17:18:47.134 | INFO     | JARVIS          | ✅ Security Monitor started
+2025-06-23 17:18:47.135 | INFO     | security_manager | Security monitoring started
+2025-06-23 17:18:47.820 | INFO     | gui_interface   | ✅ GUI interface created successfully
+2025-06-23 17:18:58.889 | INFO     | JARVIS          | Processing command: hii
+2025-06-23 17:18:58.890 | ERROR    | JARVIS          | ❌ Error processing command: 'SystemController' object has no attribute 'get_system_load'
+2025-06-23 17:19:05.990 | INFO     | JARVIS          | Processing command: hii
+2025-06-23 17:19:05.991 | ERROR    | JARVIS          | ❌ Error processing command: 'SystemController' object has no attribute 'get_system_load'
+2025-06-23 17:19:09.717 | INFO     | JARVIS          | Processing command: hii
+2025-06-23 17:19:09.717 | ERROR    | JARVIS          | ❌ Error processing command: 'SystemController' object has no attribute 'get_system_load'
+2025-06-23 17:24:15.899 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:24:15.900 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:24:15.901 | INFO     | language_manager | ✅ Translations loaded successfully
+2025-06-23 17:24:15.902 | INFO     | language_manager | 🌐 Language Manager initialized
+2025-06-23 17:24:15.903 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:24:15.903 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:24:15.904 | INFO     | language_manager | ✅ Translations loaded successfully
+2025-06-23 17:24:15.904 | INFO     | language_manager | 🌐 Language Manager initialized
+2025-06-23 17:24:15.906 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:24:15.906 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:24:16.036 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:24:16.036 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:24:16.037 | INFO     | language_manager | ✅ Translations loaded successfully
+2025-06-23 17:24:16.037 | INFO     | language_manager | 🌐 Language Manager initialized
+2025-06-23 17:24:16.038 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:24:16.039 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:24:16.041 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:24:16.041 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:24:16.043 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:24:16.043 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:24:16.045 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:24:16.045 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:24:16.045 | INFO     | JARVIS          | 🤖 Advanced JARVIS AI System Initialized
+2025-06-23 17:24:16.046 | INFO     | JARVIS          | 🚀 Initializing JARVIS Advanced Systems...
+2025-06-23 17:24:19.054 | INFO     | security_manager | System integrity verification passed
+2025-06-23 17:24:19.055 | INFO     | jarvis_brain    | 🧠 Initializing JARVIS AI Brain...
+2025-06-23 17:24:21.549 | INFO     | jarvis_brain    | ✅ JARVIS AI Brain initialized successfully
+2025-06-23 17:24:21.549 | INFO     | system_controller | ⚙️ Initializing System Controller...
+2025-06-23 17:24:21.551 | WARNING  | system_controller | ⚠️ Limited system permissions detected
+2025-06-23 17:24:21.559 | INFO     | system_controller | ✅ System monitoring initialized
+2025-06-23 17:24:21.559 | INFO     | system_controller | ✅ System Controller initialized successfully
+2025-06-23 17:24:21.560 | WARNING  | hardware_controller | ⚠️ Hardware monitoring libraries not available
+2025-06-23 17:24:21.560 | WARNING  | JARVIS          | ⚠️ Hardware Controller initialization failed
+2025-06-23 17:24:21.561 | INFO     | network_manager | 🌐 Initializing Network Manager...
+2025-06-23 17:24:22.197 | INFO     | network_manager | ✅ Network Manager initialized successfully
+2025-06-23 17:24:22.198 | WARNING  | voice_engine    | ⚠️ Voice libraries not available
+2025-06-23 17:24:22.198 | WARNING  | JARVIS          | ⚠️ Voice Engine initialization failed - continuing without voice
+2025-06-23 17:24:22.198 | INFO     | learning_engine | 🧠 Initializing Learning Engine...
+2025-06-23 17:24:22.199 | INFO     | learning_engine | Learning configuration loaded
+2025-06-23 17:24:22.199 | INFO     | learning_engine | Loaded 0 interactions and 0 preferences
+2025-06-23 17:24:22.200 | INFO     | learning_engine | Learning models initialized
+2025-06-23 17:24:22.200 | INFO     | learning_engine | Learning process started
+2025-06-23 17:24:22.200 | INFO     | learning_engine | ✅ Learning Engine initialized successfully
+2025-06-23 17:24:22.202 | INFO     | config_manager  | ✅ Configuration loaded from file
+2025-06-23 17:24:22.202 | INFO     | config_manager  | ⚙️ Configuration Manager initialized
+2025-06-23 17:24:22.203 | INFO     | language_manager | ✅ Translations loaded successfully
+2025-06-23 17:24:22.203 | INFO     | language_manager | 🌐 Language Manager initialized
+2025-06-23 17:24:22.203 | INFO     | gui_interface   | 🖥️ GUI Interface initialized
+2025-06-23 17:24:22.203 | INFO     | JARVIS          | ✅ All JARVIS systems initialized successfully
+2025-06-23 17:24:22.204 | INFO     | JARVIS          | ✅ System Monitor started
+2025-06-23 17:24:22.204 | INFO     | JARVIS          | ✅ Hardware Monitor started
+2025-06-23 17:24:22.205 | INFO     | JARVIS          | ✅ Network Monitor started
+2025-06-23 17:24:22.213 | INFO     | network_manager | Network monitoring started
+2025-06-23 17:24:22.226 | INFO     | JARVIS          | ✅ Learning Engine started
+2025-06-23 17:24:22.227 | INFO     | JARVIS          | ✅ Security Monitor started
+2025-06-23 17:24:22.227 | INFO     | security_manager | Security monitoring started
+2025-06-23 17:24:22.595 | INFO     | gui_interface   | ✅ GUI interface created successfully
+2025-06-23 17:24:48.559 | INFO     | JARVIS          | Processing command: hii
+2025-06-23 17:24:48.560 | ERROR    | JARVIS          | ❌ Error processing command: 'SystemController' object has no attribute 'get_system_load'

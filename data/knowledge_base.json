@@ -1,0 +1,28 @@
+{
+  "system_commands": {
+    "shutdown": "system.shutdown",
+    "restart": "system.restart",
+    "sleep": "system.sleep",
+    "lock": "system.lock",
+    "status": "system.status"
+  },
+  "application_commands": {
+    "open": "app.open",
+    "close": "app.close",
+    "minimize": "app.minimize",
+    "maximize": "app.maximize"
+  },
+  "file_commands": {
+    "create": "file.create",
+    "delete": "file.delete",
+    "copy": "file.copy",
+    "move": "file.move",
+    "search": "file.search"
+  },
+  "network_commands": {
+    "ping": "network.ping",
+    "scan": "network.scan",
+    "connect": "network.connect",
+    "disconnect": "network.disconnect"
+  }
+}

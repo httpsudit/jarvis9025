@@ -1,0 +1,55 @@
+{
+  "ai": {
+    "api_key": "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",
+    "model": "google/gemini-2.5-flash-lite-preview-06-17",
+    "temperature": 0.7,
+    "max_tokens": 1000,
+    "timeout": 30
+  },
+  "voice": {
+    "enabled": true,
+    "rate": 180,
+    "volume": 0.9,
+    "language": "en-US",
+    "wake_words": [
+      "jarvis",
+      "जार्विस"
+    ]
+  },
+  "system": {
+    "monitoring_enabled": true,
+    "auto_optimization": true,
+    "security_monitoring": true,
+    "update_interval": 5
+  },
+  "interface": {
+    "theme": "dark",
+    "language": "english",
+    "gui_enabled": true,
+    "console_colors": true
+  },
+  "learning": {
+    "enabled": true,
+    "save_conversations": true,
+    "adapt_responses": true,
+    "user_preferences": {}
+  },
+  "security": {
+    "require_authentication": false,
+    "log_commands": true,
+    "restrict_system_commands": false,
+    "encryption_enabled": true
+  },
+  "network": {
+    "proxy_enabled": false,
+    "proxy_host": "",
+    "proxy_port": 8080,
+    "timeout": 10
+  },
+  "hardware": {
+    "gpu_acceleration": true,
+    "cpu_optimization": true,
+    "memory_management": true,
+    "temperature_monitoring": true
+  }
+}

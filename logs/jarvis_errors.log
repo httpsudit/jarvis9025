@@ -1,0 +1,4 @@
+2025-06-23 17:18:58.890 | ERROR    | JARVIS          | ❌ Error processing command: 'SystemController' object has no attribute 'get_system_load'
+2025-06-23 17:19:05.991 | ERROR    | JARVIS          | ❌ Error processing command: 'SystemController' object has no attribute 'get_system_load'
+2025-06-23 17:19:09.717 | ERROR    | JARVIS          | ❌ Error processing command: 'SystemController' object has no attribute 'get_system_load'
+2025-06-23 17:24:48.560 | ERROR    | JARVIS          | ❌ Error processing command: 'SystemController' object has no attribute 'get_system_load'
